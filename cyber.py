@@ -174,5 +174,4 @@ if n == 2:
 
         except smtplib.SMTPAuthenticationError:
             print("[!] Pasword Is Wrong. %s " % password)
-if n == 3:
-    print("hhhh")
+
